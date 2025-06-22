@@ -1,0 +1,4 @@
+package org.example.gotalearn.entity;
+
+public class Admin {
+}
